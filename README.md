@@ -42,3 +42,5 @@ The following five classifiers were trained and evaluated on the dataset. Below 
 | Support Vector Machine | Best accuracy and precision overall; strong general performance, though Logistic Regression slightly leads in AUC. |
 | **Overall winner for this dataset** | **Support Vector Machine (SVM)** based on the highest accuracy and strong precision. |
 
+### Streamlit app link
+[Classifier Evaluation](https://hw2-ml-2026ak05104.streamlit.app/)
